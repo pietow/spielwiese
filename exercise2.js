@@ -1,0 +1,18 @@
+console.log(true == 1);
+console.log(true === 1);
+console.log(true && 1);
+console.log(1 && true);
+console.log(null || false);
+console.log(false || null);
+let num1;
+let num2 = 11;
+let num = num1 || num2;
+console.log(num);
+// console.log(z || true);
+let z = undefined;
+console.log(z || true);
+// console.log('undefine');
+console.log(true || z);
+console.log(true && 2);
+console.log(null || undefined);
+console.log('HI' || undefined);
