@@ -1,3 +1,6 @@
 [submodule "pb-function-parametrics-pietow"]
 	path = pb-function-parametrics-pietow
 	url = git@github.com:FbW-E05-1/pb-function-parametrics-pietow.git
+[submodule "pb-functions-pietow"]
+	path = pb-functions-pietow
+	url = git@github.com:FbW-E05-1/pb-functions-pietow.git
