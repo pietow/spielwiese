@@ -4,3 +4,6 @@
 [submodule "pb-functions-pietow"]
 	path = pb-functions-pietow
 	url = git@github.com:FbW-E05-1/pb-functions-pietow.git
+[submodule "pb-array-problems-pietow"]
+	path = pb-array-problems-pietow
+	url = git@github.com:FbW-E05-1/pb-array-problems-pietow.git
