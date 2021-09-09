@@ -7,3 +7,6 @@
 [submodule "pb-array-problems-pietow"]
 	path = pb-array-problems-pietow
 	url = git@github.com:FbW-E05-1/pb-array-problems-pietow.git
+[submodule "pb-function-return-exercise-1-pietow"]
+	path = pb-function-return-exercise-1-pietow
+	url = git@github.com:FbW-E05-1/pb-function-return-exercise-1-pietow.git
