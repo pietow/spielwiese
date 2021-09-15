@@ -10,3 +10,12 @@
 [submodule "pb-function-return-exercise-1-pietow"]
 	path = pb-function-return-exercise-1-pietow
 	url = git@github.com:FbW-E05-1/pb-function-return-exercise-1-pietow.git
+[submodule "pb-datastructure-objectscope-pietow"]
+	path = pb-datastructure-objectscope-pietow
+	url = git@github.com:FbW-E05-1/pb-datastructure-objectscope-pietow.git
+[submodule "pb-objects-pt1-pietow"]
+	path = pb-objects-pt1-pietow
+	url = git@github.com:FbW-E05-1/pb-objects-pt1-pietow.git
+[submodule "pb-objects-pt2-pietow"]
+	path = pb-objects-pt2-pietow
+	url = git@github.com:FbW-E05-1/pb-objects-pt2-pietow.git

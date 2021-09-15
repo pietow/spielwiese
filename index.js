@@ -4,5 +4,4 @@ let bla = {...sources}
 function merge(...sources) {
     console.log(sources);
 };
-
 merge({x:2}, {y:2});
