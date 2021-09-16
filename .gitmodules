@@ -19,3 +19,12 @@
 [submodule "pb-objects-pt2-pietow"]
 	path = pb-objects-pt2-pietow
 	url = git@github.com:FbW-E05-1/pb-objects-pt2-pietow.git
+[submodule "pb-data-structure-objects-exercise-pietow"]
+	path = pb-data-structure-objects-exercise-pietow
+	url = git@github.com:FbW-E05-1/pb-data-structure-objects-exercise-pietow.git
+[submodule "pb-dtatastructure-spread-pietow"]
+	path = pb-dtatastructure-spread-pietow
+	url = git@github.com:FbW-E05-1/pb-dtatastructure-spread-pietow.git
+[submodule "pb-datastructure-destructuring-pietow"]
+	path = pb-datastructure-destructuring-pietow
+	url = git@github.com:FbW-E05-1/pb-datastructure-destructuring-pietow.git
