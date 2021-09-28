@@ -28,3 +28,39 @@
 [submodule "pb-datastructure-destructuring-pietow"]
 	path = pb-datastructure-destructuring-pietow
 	url = git@github.com:FbW-E05-1/pb-datastructure-destructuring-pietow.git
+[submodule "pb-object-properties-pietow"]
+	path = pb-object-properties-pietow
+	url = git@github.com:FbW-E05-1/pb-object-properties-pietow.git
+[submodule "pb-object-problems-pietow"]
+	path = pb-object-problems-pietow
+	url = git@github.com:FbW-E05-1/pb-object-problems-pietow.git
+[submodule "pb-mixed-problems-pietow"]
+	path = pb-mixed-problems-pietow
+	url = git@github.com:FbW-E05-1/pb-mixed-problems-pietow.git
+[submodule "pb-datastructure-foreach-map-pietow"]
+	path = pb-datastructure-foreach-map-pietow
+	url = git@github.com:FbW-E05-1/pb-datastructure-foreach-map-pietow.git
+[submodule "pb-datastructure-map-pietow"]
+	path = pb-datastructure-map-pietow
+	url = git@github.com:FbW-E05-1/pb-datastructure-map-pietow.git
+[submodule "pb-functions-callback-1-pietow"]
+	path = pb-functions-callback-1-pietow
+	url = git@github.com:FbW-E05-1/pb-functions-callback-1-pietow.git
+[submodule "pb-functions-callback-2-pietow"]
+	path = pb-functions-callback-2-pietow
+	url = git@github.com:FbW-E05-1/pb-functions-callback-2-pietow.git
+[submodule "pb-datastructure-filter-pietow"]
+	path = pb-datastructure-filter-pietow
+	url = git@github.com:FbW-E05-1/pb-datastructure-filter-pietow.git
+[submodule "pb-datastructure-sort-pietow"]
+	path = pb-datastructure-sort-pietow
+	url = git@github.com:FbW-E05-1/pb-datastructure-sort-pietow.git
+[submodule "pb-datastructure-reduce-pietow"]
+	path = pb-datastructure-reduce-pietow
+	url = git@github.com:FbW-E05-1/pb-datastructure-reduce-pietow.git
+[submodule "pb-functions-closure-pietow"]
+	path = pb-functions-closure-pietow
+	url = git@github.com:FbW-E05-1/pb-functions-closure-pietow.git
+[submodule "pb-functions-closure-2-pietow"]
+	path = pb-functions-closure-2-pietow
+	url = git@github.com:FbW-E05-1/pb-functions-closure-2-pietow.git
