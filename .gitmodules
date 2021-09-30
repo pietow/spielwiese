@@ -64,3 +64,6 @@
 [submodule "pb-functions-closure-2-pietow"]
 	path = pb-functions-closure-2-pietow
 	url = git@github.com:FbW-E05-1/pb-functions-closure-2-pietow.git
+[submodule "pb-functions-recursion-pietow"]
+	path = pb-functions-recursion-pietow
+	url = git@github.com:FbW-E05-1/pb-functions-recursion-pietow.git
