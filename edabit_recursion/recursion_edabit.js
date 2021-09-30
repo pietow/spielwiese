@@ -15,12 +15,13 @@ const reverse = str => {
     if (str === '') {
         return ''
     } else {
+        return reverse(str.slice(1)) + str[0]
         return str.slice(-1) + reverse(str.slice(0, -1))
     }
 }
 
-// console.log(reverse('hello'))
-// console.log(reverse('a'))
+console.log(reverse('hello'))
+console.log(reverse('a'))
 
 //Factorials
 const factorial = n => {
@@ -48,7 +49,7 @@ const fib = n => {
     }
 } 
 
-console.log(fib(0))
-console.log(fib(1))
-console.log(fib(2))
-console.log(fib(8))
+// console.log(fib(0))
+// console.log(fib(1))
+// console.log(fib(2))
+// console.log(fib(8))
