@@ -67,3 +67,6 @@
 [submodule "pb-functions-recursion-pietow"]
 	path = pb-functions-recursion-pietow
 	url = git@github.com:FbW-E05-1/pb-functions-recursion-pietow.git
+[submodule "pb-datastructure-advarray-pietow"]
+	path = pb-datastructure-advarray-pietow
+	url = git@github.com:FbW-E05-1/pb-datastructure-advarray-pietow.git
