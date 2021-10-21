@@ -70,3 +70,21 @@
 [submodule "pb-datastructure-advarray-pietow"]
 	path = pb-datastructure-advarray-pietow
 	url = git@github.com:FbW-E05-1/pb-datastructure-advarray-pietow.git
+[submodule "pb-classes-exercise-1-pietow"]
+	path = pb-classes-exercise-1-pietow
+	url = git@github.com:FbW-E05-1/pb-classes-exercise-1-pietow.git
+[submodule "pb-datastructure-classes-pietow"]
+	path = pb-datastructure-classes-pietow
+	url = git@github.com:FbW-E05-1/pb-datastructure-classes-pietow.git
+[submodule "pb-classes-exc-2-pietow"]
+	path = pb-classes-exc-2-pietow
+	url = git@github.com:FbW-E05-1/pb-classes-exc-2-pietow.git
+[submodule "pb-date-pietow"]
+	path = pb-date-pietow
+	url = git@github.com:FbW-E05-1/pb-date-pietow.git
+[submodule "pb-review-exc-pt1-pietow"]
+	path = pb-review-exc-pt1-pietow
+	url = git@github.com:FbW-E05-1/pb-review-exc-pt1-pietow.git
+[submodule "pb-the-cashier-problem-pietow"]
+	path = pb-the-cashier-problem-pietow
+	url = git@github.com:FbW-E05-1/pb-the-cashier-problem-pietow.git

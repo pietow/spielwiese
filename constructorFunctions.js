@@ -15,6 +15,7 @@ user.prototype.getUserInfo = function () {
     return ` ${this.name} is not an admin`
 }
 
+console.log(user.prototype.toString)
 user.prototype.name = 'Bla'
 
 const jack = new user('Jacke', false)
